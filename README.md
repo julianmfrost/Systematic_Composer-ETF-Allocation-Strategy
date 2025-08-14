@@ -1,5 +1,6 @@
-# composer-etf-strat-jfcustomized
+# Composer-etf-strat-jfcustomized
 # Live Composer strategy using momentum and mean reversion logic
+# Overview of logic below
 
 
 (defsymphony
